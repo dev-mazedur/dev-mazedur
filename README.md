@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced Next.js patterns, performance optimization, and modern backend architectures
 - 👯 I’m looking to collaborate on open-source projects, WordPress plugins/themes, and modern React-based applications
 - 🤔 I’m looking for help with improving large-scale application performance and deployment strategies
-- 💬 Ask me about full-stack development, WordPress customization, React, Next.js, Node.js, and Laravel
+- 💬 Ask me about full-stack development, WordPress Website Development, React, Next.js, Node.js, and Laravel
 - 📫 How to reach me: LinkedIn / Facebook / GitHub Discussions
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy turning complex requirements into clean, maintainable code
